@@ -19,7 +19,7 @@ namespace StorybrewScripts
         {
             fg = LoadFont("sb/lyrics",
             new FontDescription{
-                FontPath = "sb/BIZ-UDMinchoM.ttc",
+                FontPath = "BIZ-UDMinchoM.ttc",
                 FontSize = 128,
                 Color = Color4.White,
                 Padding = Vector2.Zero,
